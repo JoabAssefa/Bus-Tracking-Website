@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .speed-report-card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header-custom {
+    background-color: #007bff;
+    color: white;
+    border-radius: 15px 15px 0 0;
+    text-align: center;
+  }
+  
+  .no-records-message {
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  .button-container {
+    text-align: center;
+  }
+  
+  .alert-info, .alert-danger {
+    margin-top: 20px;
+  }
+  
